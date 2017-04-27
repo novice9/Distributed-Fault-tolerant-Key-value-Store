@@ -18,7 +18,6 @@
 #include "Params.h"
 #include "Message.h"
 #include "Queue.h"
-#include<set>
 
 /**
  * Macros
