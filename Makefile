@@ -1,6 +1,6 @@
 #**********************
 #*
-#* Progam Name: MP1. Membership Protocol.
+#* Progam Name: Membership Protocol and Key Value Store.
 #*
 #* Current file: Makefile
 #* About this file: Build Script.
