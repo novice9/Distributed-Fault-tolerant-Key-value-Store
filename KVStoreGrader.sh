@@ -3,7 +3,7 @@
 #################################################
 # FILE NAME: KVStoreGrader.sh
 #
-# DESCRIPTION: Grader for MP2
+# DESCRIPTION: Grader
 #
 # RUN PROCEDURE:
 # $ chmod +x KVStoreGrader.sh
