@@ -26,14 +26,14 @@ The testcase has 4 scenorias (each one will build a cluster of 10 nodes):
 
 2. delete - do create first, then delete 50 of the key-value
 
-3. read - do create first, then test read in 6 situation: normal read, read with 1 replica fails, read with 2 replica fails, read after reovery, read with 1 non-replica fail, read non-existent key
+3. read - do create first, then test read in 6 situation: normal read, read with 1 replica fails, read with 2 replica fails, read after recovery, read with 1 non-replica fail, read non-existent key
 
-4. update - do create first, then test update in 6 situation: normal update, update with 1 replica fails, update with 2 replica fails, update after recovery, update non-existent key  
+4. update - do create first, then test update in 6 situation: normal update, update with 1 replica fails, update with 2 replica fails, update after recovery, update with 1 non-replica fail, update non-existent key  
 
 
 To compile:
 % make 
 
-To run:
+To run test:
 %./Application testcase/create.conf
 
