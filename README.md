@@ -31,6 +31,8 @@ The testcase has 4 scenorias (each one will build a cluster of 10 nodes):
 4. update - do create first, then test update in 6 situation: normal update, update with 1 replica fails, update with 2 replica fails, update after recovery, update with 1 non-replica fail, update non-existent key  
 
 
+Need gcc version 4.7 or higher
+
 To compile:
 % make 
 
