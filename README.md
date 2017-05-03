@@ -33,7 +33,7 @@ The testcase has 4 scenorias (each one will build a cluster of 10 nodes):
 
 Need gcc version 4.7 or higher
 
-To compile:
+To compile:(need gcc version 4.7 or g++ 11)
 % make 
 
 To run test:
